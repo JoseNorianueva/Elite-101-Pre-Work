@@ -1,3 +1,17 @@
-#Elite 101_Pre Work
-Adding this to see what happens
-Pre-Work Chatbot
+# Introduction
+
+
+This is a repository created by *Jose*
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
